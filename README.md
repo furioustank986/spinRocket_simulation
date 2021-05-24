@@ -1,4 +1,4 @@
-# spinRocket_simulation
+# SpinRocket_Simulation
 A Study on the Centrifugal Separated Space Rocket Launching System
 
 # project summary
